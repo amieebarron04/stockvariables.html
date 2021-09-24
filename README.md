@@ -1,0 +1,1 @@
+# stockvariables.html
